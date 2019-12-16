@@ -5,7 +5,33 @@
 body {
     background-color: black;
     text-align: center;
+    color: white;
+    font-family: Helvetica;
 }
 a {
     color: rgb(82, 206, 136);
+    font-size: 1.5em;
+}
+header h1 {
+    font-size: 4em;
+}
+h2 {
+    font-size: 3em;
+}
+div {
+    padding: 20px 0px;
+}
+h3 {
+    color: gray;
+}
+.specialh2 {
+    padding: 20px 0px;
+}
+.specialh22 {
+    padding: 20px 0px;
+}
+footer h3 {
+    float: right;
+    color: gray;
+    margin: 0px 20px;
 }
